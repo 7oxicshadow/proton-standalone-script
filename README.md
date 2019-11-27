@@ -1,6 +1,7 @@
 # proton-standalone-script
 
-Allows steam proton to be used without steam (Standalone)
+Allows steam proton to be launched without steam (Standalone) [Native steam does need to be installed for controller support,
+but will never be launched]
 
 All of my testing was done with Proton GE but in theory it should work with any Proton version.
 
